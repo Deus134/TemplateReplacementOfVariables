@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <string>
 using namespace std;
 
 template <typename T> // template func for permitation of var values
